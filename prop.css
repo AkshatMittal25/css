@@ -1,0 +1,18 @@
+p{
+    background-color: blanchedalmond;
+    color: black ;
+    border: 2px solid black;
+}
+
+.redelement{
+    color: rgb(25, 1, 1);
+    background-color: rgb(157, 146, 167);
+    
+} 
+.yellowbg{
+        background-color:rgb(125 , 100 , 149);
+    }
+    footer,span{
+        background-color: #ff88ff;
+        border: 2px solid black
+    }

@@ -1,0 +1,35 @@
+#firstpara{
+    color:purple;
+    font-style: italic;
+    background-color: rosybrown;
+    height: 100px;
+    width: 502px;
+    font-size:large;
+    border-radius: 5px;
+    /* border-width: 4px;
+    border-style: solid;
+    border-color: blueviolet; */
+    border: 4px solid blueviolet;
+}
+
+#secondpara{
+    background-color: green;
+    height: 100px;
+    width: 500px;
+    border-top: 5px blue solid;
+    border-left: 6px red solid;
+    border-bottom-right-radius: 3px;
+    border-top-left-radius: 60px;
+
+}
+
+
+#thirdpara{
+    border: 4px solid burlywood;
+    height: 700px;
+    width: 500px;
+    background-image: url(https://iso.500px.com/wp-content/uploads/2016/02/stock-photo-125037925.jpg);
+    background-position: center;
+    background-size: 300px;
+    background-repeat: no-repeat;
+}

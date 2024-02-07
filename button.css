@@ -1,0 +1,27 @@
+.container{
+    background-color: rgb(246, 235, 235);
+    border: 2px solid red;
+    padding: 34px;
+    margin: 34px auto;
+    width: 666px;
+}
+.btn{
+    background-color: rgb(153, 216, 216);
+    padding: 6px;
+    margin: 6px;
+    border: black solid;
+    cursor: pointer;
+    font-style: italic;
+    border-radius: 4px;
+    font-weight: bold;
+}
+a{  
+    text-decoration: none;
+}
+a:hover{
+    color:blueviolet;
+}
+/* p{
+    cursor: pointer;
+
+} */
